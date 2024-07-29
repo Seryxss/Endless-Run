@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - ignoreBorder
+  - arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Arrow
+  - IgnoreArrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 1
+    uniqueID: 1757015867
+    locked: 0
+  - name: 2
+    uniqueID: 2789113995
+    locked: 0
+  - name: 3
+    uniqueID: 2227565593
+    locked: 0
+  - name: 4
+    uniqueID: 1564198955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2252151061
+    locked: 0
+  - name: Player
+    uniqueID: 3088007973
+    locked: 0
